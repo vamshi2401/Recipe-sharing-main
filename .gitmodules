@@ -1,0 +1,6 @@
+[submodule "recipe-frontend-m"]
+	path = recipe-frontend-m
+	url = https://github.com/vamshi2401/Recipe-app.git
+[submodule "recipe-backend-m"]
+	path = recipe-backend-m
+	url = https://github.com/vamshi2401/Recipe-app-backend.git
